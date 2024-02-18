@@ -1,0 +1,2 @@
+# Xiaomi-AIoT-ac2350-USB-MOD-OpenWRT-
+OpenWRT for XIAOMI AIoT AC2350 with USB MOD
